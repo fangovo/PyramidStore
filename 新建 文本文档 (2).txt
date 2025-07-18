@@ -1,8 +1,31 @@
-   "vod": [
 {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-    "type": 0
 
+  "vod": [
+   {
+      "name": "「直」 天天影视",
+      "version": 2,
+      "webSite": "http://op.ysdqjs.cn",
+      "instance": "tiantian20240629",
+      "order": "C",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tiantian.js",
+      "type": 100
     },
-]
+ 
+    {
+      "api": "https://cjhwba.com/api.php/provide/vod/",
+      "name": "「采」华为吧",
+      "type": 0
+    },
+    {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "「采」如意",
+      "type": 0
+    },
+    {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "name": "「采」黑木耳",
+      "type": 0
+    }
+  ]
+
+}
