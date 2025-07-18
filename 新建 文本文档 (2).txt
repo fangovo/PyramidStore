@@ -6,16 +6,8 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
       "type": 0
-    },
-    {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "「采」如意",
-    },
-    {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "「采」黑木耳",
-      "type": 0
     }
+
   ]
 
 }
