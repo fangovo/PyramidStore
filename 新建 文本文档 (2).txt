@@ -1,16 +1,6 @@
 {
 
   "vod": [
-   {
-      "name": "「直」 天天影视",
-      "version": 2,
-      "webSite": "http://op.ysdqjs.cn",
-      "instance": "tiantian20240629",
-      "order": "C",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/tiantian.js",
-      "type": 100
-    },
- 
     {
       "api": "https://cjhwba.com/api.php/provide/vod/",
       "name": "「采」华为吧",
