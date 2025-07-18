@@ -2,10 +2,9 @@
 
   "vod": [
  
-    {
+     {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源",
-      "type": 0
+      "name": "「采」如意",
     }
 
   ]
