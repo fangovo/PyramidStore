@@ -1,5 +1,8 @@
- {
+   "vod": [
+{
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
     "type": 0
+
     },
+]
